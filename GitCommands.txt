@@ -1,0 +1,10 @@
+git init from directory
+git status
+git add (file name) or * (for all files)
+git commit -m ""
+git push -u origin main
+
+
+git branch -M main
+git remote add origin https://github.com/sciiif/sciiif.git
+
